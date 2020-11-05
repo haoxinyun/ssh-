@@ -1,4 +1,18 @@
-git remote add origin  https网址
+git remote add origin  ssh网址
 git push origin master
 haoxinyun
 haoxinyun200800
+
+open Git Bash
+GitHub:    ssh-keygen -t rsa -b 4096 -C "2576309215@com"
+C盘.ssh 复制。
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCZb8GMdXmHzlrJ1R8LfN3WCfKIiYKAz7xhpXy1TleuSdy8lQQWP4qjlGRYQoaLp/VG6BWP2BNCvmnr6F7o9uXd5l8OjRfRMAX/v48tqW2HZsGS3y6TUaAZXF29QdUncpq7N4CDWNuWqbbZnXuYQ92w35cZLFSEqzuEjaP9P4B3yRpeNTRLwI3J6G2JH6aqNHKwnAagX/Lbqag4Ff3KNhsZj25sxpKy02PmrhtwheD8a1lOoiNbArhLumsQM9v7Fv9T9zLgJ5V+nSM4vHIAAWE5ioA9Wgd3a4jAQGZYzkfZcDvv+W/VZgp5eS1a+0OhtJCeavL8ICgUiEGBO8lWO+pvGZjYA/m58ZwjgrfwqFGYeHkzAX8+9vPvIElxpVGb36yTtpqLg5alyEVo/koHETZJy8AC6ko1wxaO5Hljbkc8NIVEpMuYhj4rICU8OdY4g4CouiibjW1SWZg5v6XyMZOO3Q2gVv8XxRzTLKlUYl/+H5mbiwZRDS2yjsZnWi4yWostnl8HbJk+Ibw+XjwHChvnVlfyvqemNgFsdJuFWWWRkrQ+qnC/mNkEyKihYFfxluiWDl9Gr+zmvZVi4XzrtxGvVf4Afoz6QmMvfEVp328IfHnflUVP5NNr2Qj91YPQetw6S+eXQ6nEgZSvFjDSfAOhRcwLZLV3MTAMQqy2Dr/mFw== 2576309215@com
+haoxinyun200800
+
+码云：ssh-keygen -t rsa -C "2576309215@qq.com" 回车
+密码haoxinyun200
+账号18332705370
+git push origin 对方网址 master上传
+对方密码 对方账号
+
+git git pull origin master下载
