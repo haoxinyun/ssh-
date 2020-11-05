@@ -1,0 +1,4 @@
+git remote add origin  https网址
+git push origin master
+haoxinyun
+haoxinyun200800
